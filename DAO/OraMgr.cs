@@ -147,7 +147,7 @@ namespace iotApp1005.DAO
         {
             try
             {
-                string sql = string.Format("insert into line_env_data_t values (" +
+                string sql = string.Format("insert into ware_0914 values (" +
                     "'{0}','{1}','{2}','{3}','{4}')",
                     env.Time, env.Temp1, env.Humi1, env.Temp2, env.Humi2);
                 cmd.Connection = conn;
@@ -189,6 +189,7 @@ namespace iotApp1005.DAO
                 Console.WriteLine("센서 데이터가 존재하지 않습니다.");
             }
             rd.Close();
-        }        
+        }  
+        
     }
 }

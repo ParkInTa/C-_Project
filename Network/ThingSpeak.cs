@@ -16,9 +16,9 @@ namespace iotApp1005.Util
     {
 #pragma warning disable S1075 // URIs should not be hardcoded
         const string url = "http://api.thingspeak.com/";
-        const string APIKEY_WRITE = "5H0M08JBVRDX9JVU";
-        const string APIKEY_READ = "1S99TPU6I5VGWBS4";
-        const string CHANNEL_ID = "1498607";
+        const string APIKEY_WRITE = "9SWHR1IWB9H3SXIV";
+        const string APIKEY_READ = "YTKIMUQXLGPKMS2Y";
+        const string CHANNEL_ID = " 1505622";
 
         public bool sendDataToThingSpeak(string field1, string field2,
             string field3, string field4, string field5,

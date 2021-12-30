@@ -156,7 +156,7 @@ namespace iotApp1005
                 }
                 Console.WriteLine("---------------------------------");
                 initCommChart2(list);
-                OraMgr.Instance.showDB();
+                //OraMgr.Instance.showDB();
             }
         }
 
