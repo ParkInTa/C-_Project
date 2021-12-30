@@ -1,0 +1,17 @@
+E:\kb2021_c#\iotApp0907\bin\Debug\iotApp0907.exe.config
+E:\kb2021_c#\iotApp0907\bin\Debug\iotApp0907.exe
+E:\kb2021_c#\iotApp0907\bin\Debug\iotApp0907.pdb
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.Properties.Resources.resources
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.csproj.GenerateResource.cache
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.csproj.CoreCompileInputs.cache
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.exe
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.pdb
+E:\kb2021_c#\iotApp0907\bin\Debug\Newtonsoft.Json.dll
+E:\kb2021_c#\iotApp0907\bin\Debug\Newtonsoft.Json.xml
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.csproj.CopyComplete
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.MainUI.resources
+E:\kb2021_c#\iotApp0907\bin\Debug\MaterialSkin.dll
+E:\kb2021_c#\iotApp0907\bin\Debug\SunnyUI.Common.dll
+E:\kb2021_c#\iotApp0907\bin\Debug\SunnyUI.dll
+E:\kb2021_c#\iotApp0907\obj\Debug\iotApp0907.csproj.AssemblyReference.cache
+E:\kb2021_c#\iotApp0907\bin\Debug\Oracle.ManagedDataAccess.dll
